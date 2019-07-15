@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1563171904 source:f:\cch\projects\killstudentmain\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1563177496 source:f:\cch\projects\killstudentmain\icon.rc
+
