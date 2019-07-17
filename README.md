@@ -11,7 +11,7 @@
 - GNU GPL 3.0协议
 - README文件
 
-#### **若要直接下载可执行文件，请转至Releases。**
+#### **若要直接下载可执行文件，请转至[Releases](https://github.com/0And1Story/KillStudentMain/releases)。**
 
 此项目使用**GNU General Public License**：
 
